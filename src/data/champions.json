@@ -1,0 +1,3834 @@
+[
+  {
+    "id": "Garen",
+    "numericId": 86,
+    "name": "가렌",
+    "nameEn": "Garen",
+    "title": "데마시아의 힘",
+    "qName": "결정타",
+    "qRange": 300,
+    "rawRange": 300,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Garen.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Garen_0.jpg",
+    "qIcon": "/abilities/GarenQ.png"
+  },
+  {
+    "id": "Galio",
+    "numericId": 3,
+    "name": "갈리오",
+    "nameEn": "Galio",
+    "title": "위대한 석상",
+    "qName": "전장의 돌풍",
+    "qRange": 825,
+    "rawRange": 825,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "image": "/champions/Galio.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Galio_0.jpg",
+    "qIcon": "/abilities/GalioQ.png"
+  },
+  {
+    "id": "Gangplank",
+    "numericId": 41,
+    "name": "갱플랭크",
+    "nameEn": "Gangplank",
+    "title": "바다의 무법자",
+    "qName": "혀어어어업상",
+    "qRange": 625,
+    "rawRange": 625,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "image": "/champions/Gangplank.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gangplank_0.jpg",
+    "qIcon": "/abilities/GangplankQ.png"
+  },
+  {
+    "id": "Gragas",
+    "numericId": 79,
+    "name": "그라가스",
+    "nameEn": "Gragas",
+    "title": "술취한 난동꾼",
+    "qName": "술통 굴리기",
+    "qRange": 850,
+    "rawRange": 850,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "JUNGLE",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "image": "/champions/Gragas.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gragas_0.jpg",
+    "qIcon": "/abilities/GragasQ.png"
+  },
+  {
+    "id": "Graves",
+    "numericId": 104,
+    "name": "그레이브즈",
+    "nameEn": "Graves",
+    "title": "무법자",
+    "qName": "화약 역류",
+    "qRange": 925,
+    "rawRange": 925,
+    "adjusted": false,
+    "attackRange": 425,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Graves.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Graves_0.jpg",
+    "qIcon": "/abilities/GravesQ.png"
+  },
+  {
+    "id": "Gwen",
+    "numericId": 887,
+    "name": "그웬",
+    "nameEn": "Gwen",
+    "title": "신성한 재봉사",
+    "qName": "싹둑싹둑!",
+    "qRange": 450,
+    "rawRange": 450,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "image": "/champions/Gwen.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gwen_0.jpg",
+    "qIcon": "/abilities/GwenQ.png"
+  },
+  {
+    "id": "Gnar",
+    "numericId": 150,
+    "name": "나르",
+    "nameEn": "Gnar",
+    "title": "잃어버린 고리",
+    "qName": "부메랑 던지기 / 돌덩이 던지기",
+    "qRange": 1100,
+    "rawRange": 1100,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Gnar.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Gnar_0.jpg",
+    "qIcon": "/abilities/GnarQ.png"
+  },
+  {
+    "id": "Nami",
+    "numericId": 267,
+    "name": "나미",
+    "nameEn": "Nami",
+    "title": "파도 소환사",
+    "qName": "물의 감옥",
+    "qRange": 875,
+    "rawRange": 875,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Nami.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nami_0.jpg",
+    "qIcon": "/abilities/NamiQ.png"
+  },
+  {
+    "id": "Nasus",
+    "numericId": 75,
+    "name": "나서스",
+    "nameEn": "Nasus",
+    "title": "사막의 관리자",
+    "qName": "흡수의 일격",
+    "qRange": 255,
+    "rawRange": 255,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Nasus.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nasus_0.jpg",
+    "qIcon": "/abilities/NasusQ.png"
+  },
+  {
+    "id": "Naafiri",
+    "numericId": 950,
+    "name": "나피리",
+    "nameEn": "Naafiri",
+    "title": "백 번 무는 사냥개",
+    "qName": "다르킨 단검",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "image": "/champions/Naafiri.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Naafiri_0.jpg",
+    "qIcon": "/abilities/NaafiriQ.png"
+  },
+  {
+    "id": "Nautilus",
+    "numericId": 111,
+    "name": "노틸러스",
+    "nameEn": "Nautilus",
+    "title": "심해의 타이탄",
+    "qName": "닻줄 견인",
+    "qRange": 1150,
+    "rawRange": 1150,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Nautilus.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nautilus_0.jpg",
+    "qIcon": "/abilities/NautilusQ.png"
+  },
+  {
+    "id": "Nocturne",
+    "numericId": 56,
+    "name": "녹턴",
+    "nameEn": "Nocturne",
+    "title": "영원한 악몽",
+    "qName": "황혼의 인도자",
+    "qRange": 1125,
+    "rawRange": 1125,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Nocturne.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nocturne_0.jpg",
+    "qIcon": "/abilities/NocturneQ.png"
+  },
+  {
+    "id": "Nunu",
+    "numericId": 20,
+    "name": "누누와 윌럼프",
+    "nameEn": "Nunu & Willump",
+    "title": "소년과 설인",
+    "qName": "잡아먹기",
+    "qRange": 125,
+    "rawRange": 125,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "image": "/champions/Nunu.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_0.jpg",
+    "qIcon": "/abilities/NunuQ.png"
+  },
+  {
+    "id": "Nidalee",
+    "numericId": 76,
+    "name": "니달리",
+    "nameEn": "Nidalee",
+    "title": "야성의 사냥꾼",
+    "qName": "창 투척 / 숨통 끊기",
+    "qRange": 1500,
+    "rawRange": 1500,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Nidalee.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nidalee_0.jpg",
+    "qIcon": "/abilities/NidaleeQ.png"
+  },
+  {
+    "id": "Neeko",
+    "numericId": 518,
+    "name": "니코",
+    "nameEn": "Neeko",
+    "title": "알쏭달쏭 카멜레온",
+    "qName": "꽃망울 폭발",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Neeko.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Neeko_0.jpg",
+    "qIcon": "/abilities/NeekoQ.png"
+  },
+  {
+    "id": "Nilah",
+    "numericId": 895,
+    "name": "닐라",
+    "nameEn": "Nilah",
+    "title": "해방된 기쁨",
+    "qName": "무형의 검",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 225,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Nilah.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nilah_0.jpg",
+    "qIcon": "/abilities/NilahQ.png"
+  },
+  {
+    "id": "Darius",
+    "numericId": 122,
+    "name": "다리우스",
+    "nameEn": "Darius",
+    "title": "녹서스의 실력자",
+    "qName": "학살",
+    "qRange": 460,
+    "rawRange": 1,
+    "adjusted": true,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Darius.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Darius_0.jpg",
+    "qIcon": "/abilities/DariusQ.png"
+  },
+  {
+    "id": "Diana",
+    "numericId": 131,
+    "name": "다이애나",
+    "nameEn": "Diana",
+    "title": "차가운 달의 분노",
+    "qName": "초승달 검기",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Diana.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Diana_0.jpg",
+    "qIcon": "/abilities/DianaQ.png"
+  },
+  {
+    "id": "Draven",
+    "numericId": 119,
+    "name": "드레이븐",
+    "nameEn": "Draven",
+    "title": "화려한 처형자",
+    "qName": "회전 도끼",
+    "qRange": 300,
+    "rawRange": 300,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Draven.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_0.jpg",
+    "qIcon": "/abilities/DravenQ.png"
+  },
+  {
+    "id": "Ryze",
+    "numericId": 13,
+    "name": "라이즈",
+    "nameEn": "Ryze",
+    "title": "룬 마법사",
+    "qName": "과부하",
+    "qRange": 1000,
+    "rawRange": 1000,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Ryze.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ryze_0.jpg",
+    "qIcon": "/abilities/RyzeQ.png"
+  },
+  {
+    "id": "Rakan",
+    "numericId": 497,
+    "name": "라칸",
+    "nameEn": "Rakan",
+    "title": "매혹하는 자",
+    "qName": "빛나는 깃털",
+    "qRange": 850,
+    "rawRange": 850,
+    "adjusted": false,
+    "attackRange": 300,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support"
+    ],
+    "image": "/champions/Rakan.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rakan_0.jpg",
+    "qIcon": "/abilities/RakanQ.png"
+  },
+  {
+    "id": "Rammus",
+    "numericId": 33,
+    "name": "람머스",
+    "nameEn": "Rammus",
+    "title": "중무장 아르마딜로",
+    "qName": "대회전",
+    "qRange": 300,
+    "rawRange": 300,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "image": "/champions/Rammus.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rammus_0.jpg",
+    "qIcon": "/abilities/RammusQ.png"
+  },
+  {
+    "id": "Lux",
+    "numericId": 99,
+    "name": "럭스",
+    "nameEn": "Lux",
+    "title": "광명의 소녀",
+    "qName": "빛의 속박",
+    "qRange": 1175,
+    "rawRange": 1175,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Lux.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lux_0.jpg",
+    "qIcon": "/abilities/LuxQ.png"
+  },
+  {
+    "id": "Rumble",
+    "numericId": 68,
+    "name": "럼블",
+    "nameEn": "Rumble",
+    "title": "기계 악동",
+    "qName": "화염방사기",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "image": "/champions/Rumble.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rumble_0.jpg",
+    "qIcon": "/abilities/RumbleQ.png"
+  },
+  {
+    "id": "Renata",
+    "numericId": 888,
+    "name": "레나타 글라스크",
+    "nameEn": "Renata Glasc",
+    "title": "화공 남작",
+    "qName": "악수",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Renata.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renata_0.jpg",
+    "qIcon": "/abilities/RenataQ.png"
+  },
+  {
+    "id": "Renekton",
+    "numericId": 58,
+    "name": "레넥톤",
+    "nameEn": "Renekton",
+    "title": "사막의 도살자",
+    "qName": "양떼 도륙",
+    "qRange": 325,
+    "rawRange": 325,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Renekton.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Renekton_0.jpg",
+    "qIcon": "/abilities/RenektonQ.png"
+  },
+  {
+    "id": "Leona",
+    "numericId": 89,
+    "name": "레오나",
+    "nameEn": "Leona",
+    "title": "여명의 빛",
+    "qName": "여명의 방패",
+    "qRange": 175,
+    "rawRange": 100,
+    "adjusted": true,
+    "attackRange": 125,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Leona.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leona_0.jpg",
+    "qIcon": "/abilities/LeonaQ.png"
+  },
+  {
+    "id": "RekSai",
+    "numericId": 421,
+    "name": "렉사이",
+    "nameEn": "Rek'Sai",
+    "title": "공허의 복병",
+    "qName": "여왕의 진노 / 먹잇감 추적",
+    "qRange": 325,
+    "rawRange": 325,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/RekSai.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/RekSai_0.jpg",
+    "qIcon": "/abilities/RekSaiQ.png"
+  },
+  {
+    "id": "Rell",
+    "numericId": 526,
+    "name": "렐",
+    "nameEn": "Rell",
+    "title": "철의 여인",
+    "qName": "파열의 일격",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Rell.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rell_0.jpg",
+    "qIcon": "/abilities/RellQ.png"
+  },
+  {
+    "id": "Rengar",
+    "numericId": 107,
+    "name": "렝가",
+    "nameEn": "Rengar",
+    "title": "추적하는 사자",
+    "qName": "포악함",
+    "qRange": 450,
+    "rawRange": 450,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "image": "/champions/Rengar.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Rengar_0.jpg",
+    "qIcon": "/abilities/RengarQ.png"
+  },
+  {
+    "id": "Locke",
+    "numericId": 805,
+    "name": "로크",
+    "nameEn": "Locke",
+    "title": "잿빛 퇴마사",
+    "qName": "의식용 대못",
+    "qRange": 950,
+    "rawRange": 950,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Locke.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Locke_0.jpg",
+    "qIcon": "/abilities/LockeQ.png"
+  },
+  {
+    "id": "Lucian",
+    "numericId": 236,
+    "name": "루시안",
+    "nameEn": "Lucian",
+    "title": "정화의 사도",
+    "qName": "꿰뚫는 빛",
+    "qRange": 500,
+    "rawRange": 500,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "image": "/champions/Lucian.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lucian_0.jpg",
+    "qIcon": "/abilities/LucianQ.png"
+  },
+  {
+    "id": "Lulu",
+    "numericId": 117,
+    "name": "룰루",
+    "nameEn": "Lulu",
+    "title": "요정 마법사",
+    "qName": "반짝반짝 창",
+    "qRange": 925,
+    "rawRange": 925,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Lulu.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lulu_0.jpg",
+    "qIcon": "/abilities/LuluQ.png"
+  },
+  {
+    "id": "Leblanc",
+    "numericId": 7,
+    "name": "르블랑",
+    "nameEn": "LeBlanc",
+    "title": "환술사",
+    "qName": "악의의 인장",
+    "qRange": 700,
+    "rawRange": 700,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Leblanc.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Leblanc_0.jpg",
+    "qIcon": "/abilities/LeblancQ.png"
+  },
+  {
+    "id": "LeeSin",
+    "numericId": 64,
+    "name": "리 신",
+    "nameEn": "Lee Sin",
+    "title": "눈먼 수도승",
+    "qName": "음파 / 공명의 일격",
+    "qRange": 1100,
+    "rawRange": 1100,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/LeeSin.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/LeeSin_0.jpg",
+    "qIcon": "/abilities/LeeSinQ.png"
+  },
+  {
+    "id": "Riven",
+    "numericId": 92,
+    "name": "리븐",
+    "nameEn": "Riven",
+    "title": "추방자",
+    "qName": "부러진 날개",
+    "qRange": 275,
+    "rawRange": 275,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Riven.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Riven_0.jpg",
+    "qIcon": "/abilities/RivenQ.png"
+  },
+  {
+    "id": "Lissandra",
+    "numericId": 127,
+    "name": "리산드라",
+    "nameEn": "Lissandra",
+    "title": "얼음 마녀",
+    "qName": "얼음 파편",
+    "qRange": 725,
+    "rawRange": 725,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Lissandra.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lissandra_0.jpg",
+    "qIcon": "/abilities/LissandraQ.png"
+  },
+  {
+    "id": "Lillia",
+    "numericId": 876,
+    "name": "릴리아",
+    "nameEn": "Lillia",
+    "title": "수줍은 꽃",
+    "qName": "뾰로롱 강타",
+    "qRange": 450,
+    "rawRange": 450,
+    "adjusted": false,
+    "attackRange": 325,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "image": "/champions/Lillia.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Lillia_0.jpg",
+    "qIcon": "/abilities/LilliaQ.png"
+  },
+  {
+    "id": "MasterYi",
+    "numericId": 11,
+    "name": "마스터 이",
+    "nameEn": "Master Yi",
+    "title": "우주 검사",
+    "qName": "일격 필살",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/MasterYi.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_0.jpg",
+    "qIcon": "/abilities/MasterYiQ.png"
+  },
+  {
+    "id": "Maokai",
+    "numericId": 57,
+    "name": "마오카이",
+    "nameEn": "Maokai",
+    "title": "뒤틀린 나무 정령",
+    "qName": "덤불 주먹",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Maokai.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Maokai_0.jpg",
+    "qIcon": "/abilities/MaokaiQ.png"
+  },
+  {
+    "id": "Malzahar",
+    "numericId": 90,
+    "name": "말자하",
+    "nameEn": "Malzahar",
+    "title": "공허의 예언자",
+    "qName": "공허의 부름",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Malzahar.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malzahar_0.jpg",
+    "qIcon": "/abilities/MalzaharQ.png"
+  },
+  {
+    "id": "Malphite",
+    "numericId": 54,
+    "name": "말파이트",
+    "nameEn": "Malphite",
+    "title": "거석의 파편",
+    "qName": "지진의 파편",
+    "qRange": 625,
+    "rawRange": 625,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "image": "/champions/Malphite.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Malphite_0.jpg",
+    "qIcon": "/abilities/MalphiteQ.png"
+  },
+  {
+    "id": "Mel",
+    "numericId": 800,
+    "name": "멜",
+    "nameEn": "Mel",
+    "title": "영혼의 반향",
+    "qName": "빛의 폭격",
+    "qRange": 950,
+    "rawRange": 950,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Mel.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mel_0.jpg",
+    "qIcon": "/abilities/MelQ.png"
+  },
+  {
+    "id": "Mordekaiser",
+    "numericId": 82,
+    "name": "모데카이저",
+    "nameEn": "Mordekaiser",
+    "title": "강철의 망령",
+    "qName": "말살",
+    "qRange": 675,
+    "rawRange": 675,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "image": "/champions/Mordekaiser.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Mordekaiser_0.jpg",
+    "qIcon": "/abilities/MordekaiserQ.png"
+  },
+  {
+    "id": "Morgana",
+    "numericId": 25,
+    "name": "모르가나",
+    "nameEn": "Morgana",
+    "title": "타락한 자",
+    "qName": "어둠의 속박",
+    "qRange": 1250,
+    "rawRange": 1250,
+    "adjusted": false,
+    "attackRange": 450,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Morgana.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Morgana_0.jpg",
+    "qIcon": "/abilities/MorganaQ.png"
+  },
+  {
+    "id": "DrMundo",
+    "numericId": 36,
+    "name": "문도 박사",
+    "nameEn": "Dr. Mundo",
+    "title": "자운의 광인",
+    "qName": "오염된 뼈톱",
+    "qRange": 975,
+    "rawRange": 975,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "image": "/champions/DrMundo.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/DrMundo_0.jpg",
+    "qIcon": "/abilities/DrMundoQ.png"
+  },
+  {
+    "id": "MissFortune",
+    "numericId": 21,
+    "name": "미스 포츈",
+    "nameEn": "Miss Fortune",
+    "title": "현상금 사냥꾼",
+    "qName": "한 발에 두 놈",
+    "qRange": 650,
+    "rawRange": 650,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/MissFortune.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/MissFortune_0.jpg",
+    "qIcon": "/abilities/MissFortuneQ.png"
+  },
+  {
+    "id": "Milio",
+    "numericId": 902,
+    "name": "밀리오",
+    "nameEn": "Milio",
+    "title": "온화한 불꽃",
+    "qName": "초특급 불꽃 킥",
+    "qRange": 1200,
+    "rawRange": 1200,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Milio.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Milio_0.jpg",
+    "qIcon": "/abilities/MilioQ.png"
+  },
+  {
+    "id": "Bard",
+    "numericId": 432,
+    "name": "바드",
+    "nameEn": "Bard",
+    "title": "영겁의 수호자",
+    "qName": "우주의 결속",
+    "qRange": 850,
+    "rawRange": 25000,
+    "adjusted": true,
+    "attackRange": 500,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Bard.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Bard_0.jpg",
+    "qIcon": "/abilities/BardQ.png"
+  },
+  {
+    "id": "Varus",
+    "numericId": 110,
+    "name": "바루스",
+    "nameEn": "Varus",
+    "title": "응징의 화살",
+    "qName": "꿰뚫는 화살",
+    "qRange": 925,
+    "rawRange": 925,
+    "adjusted": false,
+    "attackRange": 575,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Varus.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Varus_0.jpg",
+    "qIcon": "/abilities/VarusQ.png"
+  },
+  {
+    "id": "Vi",
+    "numericId": 254,
+    "name": "바이",
+    "nameEn": "Vi",
+    "title": "필트오버의 집행자",
+    "qName": "금고 부수기",
+    "qRange": 250,
+    "rawRange": 250,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Vi.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vi_0.jpg",
+    "qIcon": "/abilities/ViQ.png"
+  },
+  {
+    "id": "Veigar",
+    "numericId": 45,
+    "name": "베이가",
+    "nameEn": "Veigar",
+    "title": "악의 작은 지배자",
+    "qName": "사악한 일격",
+    "qRange": 1000,
+    "rawRange": 1000,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Veigar.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Veigar_0.jpg",
+    "qIcon": "/abilities/VeigarQ.png"
+  },
+  {
+    "id": "Vayne",
+    "numericId": 67,
+    "name": "베인",
+    "nameEn": "Vayne",
+    "title": "어둠 사냥꾼",
+    "qName": "구르기",
+    "qRange": 300,
+    "rawRange": 300,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "TOP",
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "image": "/champions/Vayne.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vayne_0.jpg",
+    "qIcon": "/abilities/VayneQ.png"
+  },
+  {
+    "id": "Vex",
+    "numericId": 711,
+    "name": "벡스",
+    "nameEn": "Vex",
+    "title": "우울주의자",
+    "qName": "안개 화살",
+    "qRange": 1200,
+    "rawRange": 1200,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Vex.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vex_0.jpg",
+    "qIcon": "/abilities/VexQ.png"
+  },
+  {
+    "id": "Belveth",
+    "numericId": 200,
+    "name": "벨베스",
+    "nameEn": "Bel'Veth",
+    "title": "공허의 여제",
+    "qName": "공허 쇄도",
+    "qRange": 450,
+    "rawRange": 450,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "image": "/champions/Belveth.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Belveth_0.jpg",
+    "qIcon": "/abilities/BelvethQ.png"
+  },
+  {
+    "id": "Velkoz",
+    "numericId": 161,
+    "name": "벨코즈",
+    "nameEn": "Vel'Koz",
+    "title": "공허의 눈",
+    "qName": "플라즈마 분열",
+    "qRange": 1050,
+    "rawRange": 1050,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Velkoz.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Velkoz_0.jpg",
+    "qIcon": "/abilities/VelkozQ.png"
+  },
+  {
+    "id": "Volibear",
+    "numericId": 106,
+    "name": "볼리베어",
+    "nameEn": "Volibear",
+    "title": "무자비한 폭풍",
+    "qName": "번개 강타",
+    "qRange": 300,
+    "rawRange": 300,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Volibear.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Volibear_0.jpg",
+    "qIcon": "/abilities/VolibearQ.png"
+  },
+  {
+    "id": "Braum",
+    "numericId": 201,
+    "name": "브라움",
+    "nameEn": "Braum",
+    "title": "프렐요드의 심장",
+    "qName": "동상",
+    "qRange": 1000,
+    "rawRange": 1000,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Braum.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Braum_0.jpg",
+    "qIcon": "/abilities/BraumQ.png"
+  },
+  {
+    "id": "Briar",
+    "numericId": 233,
+    "name": "브라이어",
+    "nameEn": "Briar",
+    "title": "억눌린 허기",
+    "qName": "짜릿한 돌격",
+    "qRange": 475,
+    "rawRange": 475,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Briar.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Briar_0.jpg",
+    "qIcon": "/abilities/BriarQ.png"
+  },
+  {
+    "id": "Brand",
+    "numericId": 63,
+    "name": "브랜드",
+    "nameEn": "Brand",
+    "title": "타오르는 복수",
+    "qName": "불태우기",
+    "qRange": 1050,
+    "rawRange": 1050,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "JUNGLE",
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Brand.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Brand_0.jpg",
+    "qIcon": "/abilities/BrandQ.png"
+  },
+  {
+    "id": "Vladimir",
+    "numericId": 8,
+    "name": "블라디미르",
+    "nameEn": "Vladimir",
+    "title": "진홍빛 사신",
+    "qName": "수혈",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 450,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Fighter"
+    ],
+    "image": "/champions/Vladimir.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Vladimir_0.jpg",
+    "qIcon": "/abilities/VladimirQ.png"
+  },
+  {
+    "id": "Blitzcrank",
+    "numericId": 53,
+    "name": "블리츠크랭크",
+    "nameEn": "Blitzcrank",
+    "title": "거대 증기 골렘",
+    "qName": "로켓 손",
+    "qRange": 1079,
+    "rawRange": 1079,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Blitzcrank.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Blitzcrank_0.jpg",
+    "qIcon": "/abilities/BlitzcrankQ.png"
+  },
+  {
+    "id": "Viego",
+    "numericId": 234,
+    "name": "비에고",
+    "nameEn": "Viego",
+    "title": "몰락한 왕",
+    "qName": "몰락한 왕의 검",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 200,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Viego.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viego_0.jpg",
+    "qIcon": "/abilities/ViegoQ.png"
+  },
+  {
+    "id": "Viktor",
+    "numericId": 112,
+    "name": "빅토르",
+    "nameEn": "Viktor",
+    "title": "아케인의 전령관",
+    "qName": "힘의 흡수",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Viktor.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_0.jpg",
+    "qIcon": "/abilities/ViktorQ.png"
+  },
+  {
+    "id": "Poppy",
+    "numericId": 78,
+    "name": "뽀삐",
+    "nameEn": "Poppy",
+    "title": "망치의 수호자",
+    "qName": "망치 강타",
+    "qRange": 430,
+    "rawRange": 430,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "image": "/champions/Poppy.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Poppy_0.jpg",
+    "qIcon": "/abilities/PoppyQ.png"
+  },
+  {
+    "id": "Samira",
+    "numericId": 360,
+    "name": "사미라",
+    "nameEn": "Samira",
+    "title": "사막의 장미",
+    "qName": "천부적 재능",
+    "qRange": 950,
+    "rawRange": 950,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "image": "/champions/Samira.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Samira_0.jpg",
+    "qIcon": "/abilities/SamiraQ.png"
+  },
+  {
+    "id": "Sion",
+    "numericId": 14,
+    "name": "사이온",
+    "nameEn": "Sion",
+    "title": "언데드 학살병기",
+    "qName": "대량 학살 강타",
+    "qRange": 1550,
+    "rawRange": 10000,
+    "adjusted": true,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "image": "/champions/Sion.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_0.jpg",
+    "qIcon": "/abilities/SionQ.png"
+  },
+  {
+    "id": "Sylas",
+    "numericId": 517,
+    "name": "사일러스",
+    "nameEn": "Sylas",
+    "title": "해방된 자",
+    "qName": "사슬 후려치기",
+    "qRange": 775,
+    "rawRange": 775,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "image": "/champions/Sylas.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sylas_0.jpg",
+    "qIcon": "/abilities/SylasQ.png"
+  },
+  {
+    "id": "Shaco",
+    "numericId": 35,
+    "name": "샤코",
+    "nameEn": "Shaco",
+    "title": "악마 어릿광대",
+    "qName": "속임수",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "image": "/champions/Shaco.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shaco_0.jpg",
+    "qIcon": "/abilities/ShacoQ.png"
+  },
+  {
+    "id": "Senna",
+    "numericId": 235,
+    "name": "세나",
+    "nameEn": "Senna",
+    "title": "구원자",
+    "qName": "꿰뚫는 어둠",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 600,
+    "roles": [
+      "BOTTOM",
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Marksman"
+    ],
+    "image": "/champions/Senna.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Senna_0.jpg",
+    "qIcon": "/abilities/SennaQ.png"
+  },
+  {
+    "id": "Seraphine",
+    "numericId": 147,
+    "name": "세라핀",
+    "nameEn": "Seraphine",
+    "title": "노래하는 별",
+    "qName": "고음",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "BOTTOM",
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Seraphine.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Seraphine_0.jpg",
+    "qIcon": "/abilities/SeraphineQ.png"
+  },
+  {
+    "id": "Sejuani",
+    "numericId": 113,
+    "name": "세주아니",
+    "nameEn": "Sejuani",
+    "title": "혹한의 분노",
+    "qName": "혹한의 맹습",
+    "qRange": 650,
+    "rawRange": 650,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "image": "/champions/Sejuani.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sejuani_0.jpg",
+    "qIcon": "/abilities/SejuaniQ.png"
+  },
+  {
+    "id": "Sett",
+    "numericId": 875,
+    "name": "세트",
+    "nameEn": "Sett",
+    "title": "우두머리",
+    "qName": "주먹다짐",
+    "qRange": 175,
+    "rawRange": 0,
+    "adjusted": true,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Sett.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sett_0.jpg",
+    "qIcon": "/abilities/SettQ.png"
+  },
+  {
+    "id": "Sona",
+    "numericId": 37,
+    "name": "소나",
+    "nameEn": "Sona",
+    "title": "현의 명인",
+    "qName": "용맹의 찬가",
+    "qRange": 825,
+    "rawRange": 825,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Sona.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sona_0.jpg",
+    "qIcon": "/abilities/SonaQ.png"
+  },
+  {
+    "id": "Soraka",
+    "numericId": 16,
+    "name": "소라카",
+    "nameEn": "Soraka",
+    "title": "별의 아이",
+    "qName": "별부름",
+    "qRange": 810,
+    "rawRange": 810,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Soraka.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Soraka_0.jpg",
+    "qIcon": "/abilities/SorakaQ.png"
+  },
+  {
+    "id": "Shen",
+    "numericId": 98,
+    "name": "쉔",
+    "nameEn": "Shen",
+    "title": "황혼의 눈",
+    "qName": "황혼 강습",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "image": "/champions/Shen.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shen_0.jpg",
+    "qIcon": "/abilities/ShenQ.png"
+  },
+  {
+    "id": "Shyvana",
+    "numericId": 102,
+    "name": "쉬바나",
+    "nameEn": "Shyvana",
+    "title": "하프 드래곤",
+    "qName": "잉걸불 일격",
+    "qRange": 175,
+    "rawRange": 25000,
+    "adjusted": true,
+    "attackRange": 150,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Shyvana.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Shyvana_0.jpg",
+    "qIcon": "/abilities/ShyvanaQ.png"
+  },
+  {
+    "id": "Smolder",
+    "numericId": 901,
+    "name": "스몰더",
+    "nameEn": "Smolder",
+    "title": "꼬마 불꽃용",
+    "qName": "초강력 화염 숨결",
+    "qRange": 550,
+    "rawRange": 550,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Smolder.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Smolder_0.jpg",
+    "qIcon": "/abilities/SmolderQ.png"
+  },
+  {
+    "id": "Swain",
+    "numericId": 50,
+    "name": "스웨인",
+    "nameEn": "Swain",
+    "title": "녹서스 대장군",
+    "qName": "죽음의 손길",
+    "qRange": 750,
+    "rawRange": 750,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "MIDDLE",
+      "BOTTOM",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Swain.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Swain_0.jpg",
+    "qIcon": "/abilities/SwainQ.png"
+  },
+  {
+    "id": "Skarner",
+    "numericId": 72,
+    "name": "스카너",
+    "nameEn": "Skarner",
+    "title": "태고의 군주",
+    "qName": "부서진 대지/지반 돌출",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "image": "/champions/Skarner.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Skarner_0.jpg",
+    "qIcon": "/abilities/SkarnerQ.png"
+  },
+  {
+    "id": "Sivir",
+    "numericId": 15,
+    "name": "시비르",
+    "nameEn": "Sivir",
+    "title": "전장의 여제",
+    "qName": "부메랑 검",
+    "qRange": 1200,
+    "rawRange": 1200,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Sivir.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sivir_0.jpg",
+    "qIcon": "/abilities/SivirQ.png"
+  },
+  {
+    "id": "XinZhao",
+    "numericId": 5,
+    "name": "신 짜오",
+    "nameEn": "Xin Zhao",
+    "title": "데마시아의 호위무사",
+    "qName": "삼조격",
+    "qRange": 375,
+    "rawRange": 375,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/XinZhao.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/XinZhao_0.jpg",
+    "qIcon": "/abilities/XinZhaoQ.png"
+  },
+  {
+    "id": "Syndra",
+    "numericId": 134,
+    "name": "신드라",
+    "nameEn": "Syndra",
+    "title": "어둠의 여제",
+    "qName": "어둠 구체",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Syndra.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Syndra_0.jpg",
+    "qIcon": "/abilities/SyndraQ.png"
+  },
+  {
+    "id": "Singed",
+    "numericId": 27,
+    "name": "신지드",
+    "nameEn": "Singed",
+    "title": "미친 화학자",
+    "qName": "맹독의 자취",
+    "qRange": 180,
+    "rawRange": 20,
+    "adjusted": true,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "image": "/champions/Singed.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Singed_0.jpg",
+    "qIcon": "/abilities/SingedQ.png"
+  },
+  {
+    "id": "Thresh",
+    "numericId": 412,
+    "name": "쓰레쉬",
+    "nameEn": "Thresh",
+    "title": "지옥의 간수",
+    "qName": "사형 선고",
+    "qRange": 1075,
+    "rawRange": 1075,
+    "adjusted": false,
+    "attackRange": 450,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Tank"
+    ],
+    "image": "/champions/Thresh.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Thresh_0.jpg",
+    "qIcon": "/abilities/ThreshQ.png"
+  },
+  {
+    "id": "Ahri",
+    "numericId": 103,
+    "name": "아리",
+    "nameEn": "Ahri",
+    "title": "구미호",
+    "qName": "현혹의 구슬",
+    "qRange": 970,
+    "rawRange": 970,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "image": "/champions/Ahri.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ahri_0.jpg",
+    "qIcon": "/abilities/AhriQ.png"
+  },
+  {
+    "id": "Amumu",
+    "numericId": 32,
+    "name": "아무무",
+    "nameEn": "Amumu",
+    "title": "슬픈 미라",
+    "qName": "붕대 던지기",
+    "qRange": 1100,
+    "rawRange": 1100,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Amumu.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Amumu_0.jpg",
+    "qIcon": "/abilities/AmumuQ.png"
+  },
+  {
+    "id": "AurelionSol",
+    "numericId": 136,
+    "name": "아우렐리온 솔",
+    "nameEn": "Aurelion Sol",
+    "title": "별의 창조자",
+    "qName": "빛의 숨결",
+    "qRange": 750,
+    "rawRange": 750,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/AurelionSol.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/AurelionSol_0.jpg",
+    "qIcon": "/abilities/AurelionSolQ.png"
+  },
+  {
+    "id": "Ivern",
+    "numericId": 427,
+    "name": "아이번",
+    "nameEn": "Ivern",
+    "title": "자연의 아버지",
+    "qName": "덩굴뿌리",
+    "qRange": 1125,
+    "rawRange": 1125,
+    "adjusted": false,
+    "attackRange": 475,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Ivern.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ivern_0.jpg",
+    "qIcon": "/abilities/IvernQ.png"
+  },
+  {
+    "id": "Azir",
+    "numericId": 268,
+    "name": "아지르",
+    "nameEn": "Azir",
+    "title": "사막의 황제",
+    "qName": "사막의 맹습",
+    "qRange": 740,
+    "rawRange": 740,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Marksman"
+    ],
+    "image": "/champions/Azir.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_0.jpg",
+    "qIcon": "/abilities/AzirQ.png"
+  },
+  {
+    "id": "Akali",
+    "numericId": 84,
+    "name": "아칼리",
+    "nameEn": "Akali",
+    "title": "섬기는 이 없는 암살자",
+    "qName": "오연투척검",
+    "qRange": 550,
+    "rawRange": 550,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "image": "/champions/Akali.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akali_0.jpg",
+    "qIcon": "/abilities/AkaliQ.png"
+  },
+  {
+    "id": "Akshan",
+    "numericId": 166,
+    "name": "아크샨",
+    "nameEn": "Akshan",
+    "title": "떠도는 감시자",
+    "qName": "복수의 부메랑",
+    "qRange": 850,
+    "rawRange": 850,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "image": "/champions/Akshan.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Akshan_0.jpg",
+    "qIcon": "/abilities/AkshanQ.png"
+  },
+  {
+    "id": "Aatrox",
+    "numericId": 266,
+    "name": "아트록스",
+    "nameEn": "Aatrox",
+    "title": "다르킨의 검",
+    "qName": "다르킨의 검",
+    "qRange": 650,
+    "rawRange": 25000,
+    "adjusted": true,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "image": "/champions/Aatrox.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aatrox_0.jpg",
+    "qIcon": "/abilities/AatroxQ.png"
+  },
+  {
+    "id": "Aphelios",
+    "numericId": 523,
+    "name": "아펠리오스",
+    "nameEn": "Aphelios",
+    "title": "신념의 무기",
+    "qName": "무기 스킬",
+    "qRange": 1450,
+    "rawRange": 1450,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Aphelios.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aphelios_0.jpg",
+    "qIcon": "/abilities/ApheliosQ.png"
+  },
+  {
+    "id": "Alistar",
+    "numericId": 12,
+    "name": "알리스타",
+    "nameEn": "Alistar",
+    "title": "미노타우로스",
+    "qName": "분쇄",
+    "qRange": 365,
+    "rawRange": 365,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/Alistar.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Alistar_0.jpg",
+    "qIcon": "/abilities/AlistarQ.png"
+  },
+  {
+    "id": "Ambessa",
+    "numericId": 799,
+    "name": "암베사",
+    "nameEn": "Ambessa",
+    "title": "전장의 우두머리",
+    "qName": "교활한 휩쓸기 / 파멸의 일격",
+    "qRange": 650,
+    "rawRange": 650,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Ambessa.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ambessa_0.jpg",
+    "qIcon": "/abilities/AmbessaQ.png"
+  },
+  {
+    "id": "Annie",
+    "numericId": 1,
+    "name": "애니",
+    "nameEn": "Annie",
+    "title": "어둠의 아이",
+    "qName": "붕괴",
+    "qRange": 625,
+    "rawRange": 625,
+    "adjusted": false,
+    "attackRange": 625,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Annie.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Annie_0.jpg",
+    "qIcon": "/abilities/AnnieQ.png"
+  },
+  {
+    "id": "Anivia",
+    "numericId": 34,
+    "name": "애니비아",
+    "nameEn": "Anivia",
+    "title": "얼음불사조",
+    "qName": "냉기 폭발",
+    "qRange": 1075,
+    "rawRange": 1075,
+    "adjusted": false,
+    "attackRange": 600,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Anivia.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Anivia_0.jpg",
+    "qIcon": "/abilities/AniviaQ.png"
+  },
+  {
+    "id": "Ashe",
+    "numericId": 22,
+    "name": "애쉬",
+    "nameEn": "Ashe",
+    "title": "서리 궁수",
+    "qName": "궁사의 집중",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 600,
+    "roles": [
+      "BOTTOM",
+      "UTILITY"
+    ],
+    "classes": [
+      "Marksman",
+      "Support"
+    ],
+    "image": "/champions/Ashe.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ashe_0.jpg",
+    "qIcon": "/abilities/AsheQ.png"
+  },
+  {
+    "id": "Yasuo",
+    "numericId": 157,
+    "name": "야스오",
+    "nameEn": "Yasuo",
+    "title": "용서받지 못한 자",
+    "qName": "강철 폭풍",
+    "qRange": 475,
+    "rawRange": 475,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "BOTTOM"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Yasuo.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yasuo_0.jpg",
+    "qIcon": "/abilities/YasuoQ.png"
+  },
+  {
+    "id": "Ekko",
+    "numericId": 245,
+    "name": "에코",
+    "nameEn": "Ekko",
+    "title": "시간을 달리는 소년",
+    "qName": "시간의 톱니바퀴",
+    "qRange": 1075,
+    "rawRange": 1075,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Ekko.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ekko_0.jpg",
+    "qIcon": "/abilities/EkkoQ.png"
+  },
+  {
+    "id": "Elise",
+    "numericId": 60,
+    "name": "엘리스",
+    "nameEn": "Elise",
+    "title": "거미 여왕",
+    "qName": "신경독 / 독이빨",
+    "qRange": 615,
+    "rawRange": 615,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Elise.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Elise_0.jpg",
+    "qIcon": "/abilities/EliseQ.png"
+  },
+  {
+    "id": "MonkeyKing",
+    "numericId": 62,
+    "name": "오공",
+    "nameEn": "Wukong",
+    "title": "원숭이 왕",
+    "qName": "파쇄격",
+    "qRange": 250,
+    "rawRange": 250,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/MonkeyKing.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/MonkeyKing_0.jpg",
+    "qIcon": "/abilities/MonkeyKingQ.png"
+  },
+  {
+    "id": "Aurora",
+    "numericId": 893,
+    "name": "오로라",
+    "nameEn": "Aurora",
+    "title": "세계의 경계에 선 마녀",
+    "qName": "이중 저주",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "image": "/champions/Aurora.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Aurora_0.jpg",
+    "qIcon": "/abilities/AuroraQ.png"
+  },
+  {
+    "id": "Ornn",
+    "numericId": 516,
+    "name": "오른",
+    "nameEn": "Ornn",
+    "title": "거산의 화염",
+    "qName": "용암 균열",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Tank"
+    ],
+    "image": "/champions/Ornn.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ornn_0.jpg",
+    "qIcon": "/abilities/OrnnQ.png"
+  },
+  {
+    "id": "Orianna",
+    "numericId": 61,
+    "name": "오리아나",
+    "nameEn": "Orianna",
+    "title": "시계태엽 소녀",
+    "qName": "명령: 공격",
+    "qRange": 815,
+    "rawRange": 815,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Orianna.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Orianna_0.jpg",
+    "qIcon": "/abilities/OriannaQ.png"
+  },
+  {
+    "id": "Olaf",
+    "numericId": 2,
+    "name": "올라프",
+    "nameEn": "Olaf",
+    "title": "광전사",
+    "qName": "역류",
+    "qRange": 1000,
+    "rawRange": 1000,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Olaf.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Olaf_0.jpg",
+    "qIcon": "/abilities/OlafQ.png"
+  },
+  {
+    "id": "Yone",
+    "numericId": 777,
+    "name": "요네",
+    "nameEn": "Yone",
+    "title": "잊히지 못한 자",
+    "qName": "필멸의 검",
+    "qRange": 450,
+    "rawRange": 450,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Yone.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yone_0.jpg",
+    "qIcon": "/abilities/YoneQ.png"
+  },
+  {
+    "id": "Yorick",
+    "numericId": 83,
+    "name": "요릭",
+    "nameEn": "Yorick",
+    "title": "영혼의 길잡이",
+    "qName": "최후의 의식",
+    "qRange": 175,
+    "rawRange": 0,
+    "adjusted": true,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Yorick.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yorick_0.jpg",
+    "qIcon": "/abilities/YorickQ.png"
+  },
+  {
+    "id": "Udyr",
+    "numericId": 77,
+    "name": "우디르",
+    "nameEn": "Udyr",
+    "title": "정령 주술사",
+    "qName": "야생 발톱",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Udyr.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Udyr_0.jpg",
+    "qIcon": "/abilities/UdyrQ.png"
+  },
+  {
+    "id": "Urgot",
+    "numericId": 6,
+    "name": "우르곳",
+    "nameEn": "Urgot",
+    "title": "살상 병기",
+    "qName": "부식성 폭약",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 350,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Urgot.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Urgot_0.jpg",
+    "qIcon": "/abilities/UrgotQ.png"
+  },
+  {
+    "id": "Warwick",
+    "numericId": 19,
+    "name": "워윅",
+    "nameEn": "Warwick",
+    "title": "자운의 고삐 풀린 분노",
+    "qName": "야수의 송곳니",
+    "qRange": 365,
+    "rawRange": 365,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Warwick.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Warwick_0.jpg",
+    "qIcon": "/abilities/WarwickQ.png"
+  },
+  {
+    "id": "Yunara",
+    "numericId": 804,
+    "name": "유나라",
+    "nameEn": "Yunara",
+    "title": "꺾이지 않는 신념",
+    "qName": "영혼 단련",
+    "qRange": 575,
+    "rawRange": 0,
+    "adjusted": true,
+    "attackRange": 575,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Yunara.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yunara_0.jpg",
+    "qIcon": "/abilities/YunaraQ.png"
+  },
+  {
+    "id": "Yuumi",
+    "numericId": 350,
+    "name": "유미",
+    "nameEn": "Yuumi",
+    "title": "마법 고양이",
+    "qName": "사르르탄",
+    "qRange": 850,
+    "rawRange": 25000,
+    "adjusted": true,
+    "attackRange": 425,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Yuumi.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Yuumi_0.jpg",
+    "qIcon": "/abilities/YuumiQ.png"
+  },
+  {
+    "id": "Irelia",
+    "numericId": 39,
+    "name": "이렐리아",
+    "nameEn": "Irelia",
+    "title": "칼날 무희",
+    "qName": "칼날 쇄도",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 200,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Irelia.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Irelia_0.jpg",
+    "qIcon": "/abilities/IreliaQ.png"
+  },
+  {
+    "id": "Evelynn",
+    "numericId": 28,
+    "name": "이블린",
+    "nameEn": "Evelynn",
+    "title": "고통스런 포옹",
+    "qName": "증오의 가시",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Evelynn.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Evelynn_0.jpg",
+    "qIcon": "/abilities/EvelynnQ.png"
+  },
+  {
+    "id": "Ezreal",
+    "numericId": 81,
+    "name": "이즈리얼",
+    "nameEn": "Ezreal",
+    "title": "무모한 탐험가",
+    "qName": "신비한 화살",
+    "qRange": 1150,
+    "rawRange": 1150,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Ezreal.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ezreal_0.jpg",
+    "qIcon": "/abilities/EzrealQ.png"
+  },
+  {
+    "id": "Illaoi",
+    "numericId": 420,
+    "name": "일라오이",
+    "nameEn": "Illaoi",
+    "title": "크라켄의 여사제",
+    "qName": "촉수 강타",
+    "qRange": 850,
+    "rawRange": 850,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Illaoi.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Illaoi_0.jpg",
+    "qIcon": "/abilities/IllaoiQ.png"
+  },
+  {
+    "id": "JarvanIV",
+    "numericId": 59,
+    "name": "자르반 4세",
+    "nameEn": "Jarvan IV",
+    "title": "데마시아의 귀감",
+    "qName": "용의 일격",
+    "qRange": 770,
+    "rawRange": 770,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/JarvanIV.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/JarvanIV_0.jpg",
+    "qIcon": "/abilities/JarvanIVQ.png"
+  },
+  {
+    "id": "Xayah",
+    "numericId": 498,
+    "name": "자야",
+    "nameEn": "Xayah",
+    "title": "저항하는 자",
+    "qName": "깃털 연타",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Xayah.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xayah_0.jpg",
+    "qIcon": "/abilities/XayahQ.png"
+  },
+  {
+    "id": "Zyra",
+    "numericId": 143,
+    "name": "자이라",
+    "nameEn": "Zyra",
+    "title": "가시 덩굴의 복수",
+    "qName": "치명적인 가시",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 575,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Zyra.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zyra_0.jpg",
+    "qIcon": "/abilities/ZyraQ.png"
+  },
+  {
+    "id": "Zac",
+    "numericId": 154,
+    "name": "자크",
+    "nameEn": "Zac",
+    "title": "비밀 병기",
+    "qName": "탄성 주먹",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "JUNGLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "image": "/champions/Zac.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zac_0.jpg",
+    "qIcon": "/abilities/ZacQ.png"
+  },
+  {
+    "id": "Zaahen",
+    "numericId": 904,
+    "name": "자헨",
+    "nameEn": "Zaahen",
+    "title": "저물지 않는 자",
+    "qName": "다르킨의 글레이브",
+    "qRange": 175,
+    "rawRange": 25000,
+    "adjusted": true,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "image": "/champions/Zaahen.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zaahen_0.jpg",
+    "qIcon": "/abilities/ZaahenQ.png"
+  },
+  {
+    "id": "Janna",
+    "numericId": 40,
+    "name": "잔나",
+    "nameEn": "Janna",
+    "title": "폭풍의 분노",
+    "qName": "울부짖는 돌풍",
+    "qRange": 1075,
+    "rawRange": 1075,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Janna.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Janna_0.jpg",
+    "qIcon": "/abilities/JannaQ.png"
+  },
+  {
+    "id": "Jax",
+    "numericId": 24,
+    "name": "잭스",
+    "nameEn": "Jax",
+    "title": "무기의 달인",
+    "qName": "도약 공격",
+    "qRange": 700,
+    "rawRange": 700,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "image": "/champions/Jax.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jax_0.jpg",
+    "qIcon": "/abilities/JaxQ.png"
+  },
+  {
+    "id": "Zed",
+    "numericId": 238,
+    "name": "제드",
+    "nameEn": "Zed",
+    "title": "그림자의 주인",
+    "qName": "예리한 표창",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "image": "/champions/Zed.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zed_0.jpg",
+    "qIcon": "/abilities/ZedQ.png"
+  },
+  {
+    "id": "Xerath",
+    "numericId": 101,
+    "name": "제라스",
+    "nameEn": "Xerath",
+    "title": "초월한 마법사",
+    "qName": "비전 파동",
+    "qRange": 750,
+    "rawRange": 750,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Xerath.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xerath_0.jpg",
+    "qIcon": "/abilities/XerathQ.png"
+  },
+  {
+    "id": "Zeri",
+    "numericId": 221,
+    "name": "제리",
+    "nameEn": "Zeri",
+    "title": "자운의 불꽃",
+    "qName": "집중 사격",
+    "qRange": 700,
+    "rawRange": 700,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Zeri.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zeri_0.jpg",
+    "qIcon": "/abilities/ZeriQ.png"
+  },
+  {
+    "id": "Jayce",
+    "numericId": 126,
+    "name": "제이스",
+    "nameEn": "Jayce",
+    "title": "미래의 수호자",
+    "qName": "하늘로! / 전격 폭발",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Marksman"
+    ],
+    "image": "/champions/Jayce.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_0.jpg",
+    "qIcon": "/abilities/JayceQ.png"
+  },
+  {
+    "id": "Zoe",
+    "numericId": 142,
+    "name": "조이",
+    "nameEn": "Zoe",
+    "title": "여명의 성위",
+    "qName": "통통별",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Zoe.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zoe_0.jpg",
+    "qIcon": "/abilities/ZoeQ.png"
+  },
+  {
+    "id": "Ziggs",
+    "numericId": 115,
+    "name": "직스",
+    "nameEn": "Ziggs",
+    "title": "마법공학 폭파병",
+    "qName": "반동 폭탄",
+    "qRange": 850,
+    "rawRange": 850,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE",
+      "BOTTOM"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Ziggs.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ziggs_0.jpg",
+    "qIcon": "/abilities/ZiggsQ.png"
+  },
+  {
+    "id": "Jhin",
+    "numericId": 202,
+    "name": "진",
+    "nameEn": "Jhin",
+    "title": "잔혹극의 거장",
+    "qName": "춤추는 유탄",
+    "qRange": 550,
+    "rawRange": 550,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Jhin.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jhin_0.jpg",
+    "qIcon": "/abilities/JhinQ.png"
+  },
+  {
+    "id": "Zilean",
+    "numericId": 26,
+    "name": "질리언",
+    "nameEn": "Zilean",
+    "title": "시간의 수호자",
+    "qName": "시한 폭탄",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Mage"
+    ],
+    "image": "/champions/Zilean.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Zilean_0.jpg",
+    "qIcon": "/abilities/ZileanQ.png"
+  },
+  {
+    "id": "Jinx",
+    "numericId": 222,
+    "name": "징크스",
+    "nameEn": "Jinx",
+    "title": "난폭한 말괄량이",
+    "qName": "휘릭휘릭!",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Jinx.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg",
+    "qIcon": "/abilities/JinxQ.png"
+  },
+  {
+    "id": "Chogath",
+    "numericId": 31,
+    "name": "초가스",
+    "nameEn": "Cho'Gath",
+    "title": "공허의 공포",
+    "qName": "파열",
+    "qRange": 950,
+    "rawRange": 950,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Tank",
+      "Mage"
+    ],
+    "image": "/champions/Chogath.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Chogath_0.jpg",
+    "qIcon": "/abilities/ChogathQ.png"
+  },
+  {
+    "id": "Karma",
+    "numericId": 43,
+    "name": "카르마",
+    "nameEn": "Karma",
+    "title": "깨우친 자",
+    "qName": "내면의 열정",
+    "qRange": 950,
+    "rawRange": 950,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Karma.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karma_0.jpg",
+    "qIcon": "/abilities/KarmaQ.png"
+  },
+  {
+    "id": "Camille",
+    "numericId": 164,
+    "name": "카밀",
+    "nameEn": "Camille",
+    "title": "강철의 그림자",
+    "qName": "정확성 프로토콜",
+    "qRange": 325,
+    "rawRange": 325,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP",
+      "UTILITY"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Camille.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Camille_0.jpg",
+    "qIcon": "/abilities/CamilleQ.png"
+  },
+  {
+    "id": "Kassadin",
+    "numericId": 38,
+    "name": "카사딘",
+    "nameEn": "Kassadin",
+    "title": "공허의 방랑자",
+    "qName": "무의 구체",
+    "qRange": 650,
+    "rawRange": 650,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Kassadin.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kassadin_0.jpg",
+    "qIcon": "/abilities/KassadinQ.png"
+  },
+  {
+    "id": "Karthus",
+    "numericId": 30,
+    "name": "카서스",
+    "nameEn": "Karthus",
+    "title": "죽음을 노래하는 자",
+    "qName": "황폐화",
+    "qRange": 875,
+    "rawRange": 875,
+    "adjusted": false,
+    "attackRange": 450,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Karthus.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Karthus_0.jpg",
+    "qIcon": "/abilities/KarthusQ.png"
+  },
+  {
+    "id": "Cassiopeia",
+    "numericId": 69,
+    "name": "카시오페아",
+    "nameEn": "Cassiopeia",
+    "title": "독사의 포옹",
+    "qName": "맹독 폭발",
+    "qRange": 850,
+    "rawRange": 850,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Cassiopeia.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_0.jpg",
+    "qIcon": "/abilities/CassiopeiaQ.png"
+  },
+  {
+    "id": "Kaisa",
+    "numericId": 145,
+    "name": "카이사",
+    "nameEn": "Kai'Sa",
+    "title": "공허의 딸",
+    "qName": "이케시아 폭우",
+    "qRange": 600,
+    "rawRange": 600,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Kaisa.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kaisa_0.jpg",
+    "qIcon": "/abilities/KaisaQ.png"
+  },
+  {
+    "id": "Khazix",
+    "numericId": 121,
+    "name": "카직스",
+    "nameEn": "Kha'Zix",
+    "title": "공허의 약탈자",
+    "qName": "공포 감지",
+    "qRange": 325,
+    "rawRange": 325,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "image": "/champions/Khazix.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Khazix_0.jpg",
+    "qIcon": "/abilities/KhazixQ.png"
+  },
+  {
+    "id": "Katarina",
+    "numericId": 55,
+    "name": "카타리나",
+    "nameEn": "Katarina",
+    "title": "사악한 칼날",
+    "qName": "단검 투척",
+    "qRange": 625,
+    "rawRange": 625,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "image": "/champions/Katarina.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Katarina_0.jpg",
+    "qIcon": "/abilities/KatarinaQ.png"
+  },
+  {
+    "id": "Kalista",
+    "numericId": 429,
+    "name": "칼리스타",
+    "nameEn": "Kalista",
+    "title": "복수의 화신",
+    "qName": "꿰뚫는 창",
+    "qRange": 1150,
+    "rawRange": 1150,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Kalista.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kalista_0.jpg",
+    "qIcon": "/abilities/KalistaQ.png"
+  },
+  {
+    "id": "Kennen",
+    "numericId": 85,
+    "name": "케넨",
+    "nameEn": "Kennen",
+    "title": "폭풍의 심장",
+    "qName": "천둥의 표창",
+    "qRange": 950,
+    "rawRange": 950,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Mage"
+    ],
+    "image": "/champions/Kennen.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kennen_0.jpg",
+    "qIcon": "/abilities/KennenQ.png"
+  },
+  {
+    "id": "Caitlyn",
+    "numericId": 51,
+    "name": "케이틀린",
+    "nameEn": "Caitlyn",
+    "title": "필트오버의 보안관",
+    "qName": "필트오버 피스메이커",
+    "qRange": 1250,
+    "rawRange": 1250,
+    "adjusted": false,
+    "attackRange": 650,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Caitlyn.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Caitlyn_0.jpg",
+    "qIcon": "/abilities/CaitlynQ.png"
+  },
+  {
+    "id": "Kayn",
+    "numericId": 141,
+    "name": "케인",
+    "nameEn": "Kayn",
+    "title": "그림자 사신",
+    "qName": "살상돌격",
+    "qRange": 350,
+    "rawRange": 350,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Kayn.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayn_0.jpg",
+    "qIcon": "/abilities/KaynQ.png"
+  },
+  {
+    "id": "Kayle",
+    "numericId": 10,
+    "name": "케일",
+    "nameEn": "Kayle",
+    "title": "정의로운 자",
+    "qName": "광휘의 일격",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Kayle.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kayle_0.jpg",
+    "qIcon": "/abilities/KayleQ.png"
+  },
+  {
+    "id": "KogMaw",
+    "numericId": 96,
+    "name": "코그모",
+    "nameEn": "Kog'Maw",
+    "title": "심연의 아귀",
+    "qName": "부식성 침",
+    "qRange": 1175,
+    "rawRange": 1175,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/KogMaw.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/KogMaw_0.jpg",
+    "qIcon": "/abilities/KogMawQ.png"
+  },
+  {
+    "id": "Corki",
+    "numericId": 42,
+    "name": "코르키",
+    "nameEn": "Corki",
+    "title": "대담한 폭격수",
+    "qName": "인광탄",
+    "qRange": 825,
+    "rawRange": 825,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Corki.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Corki_0.jpg",
+    "qIcon": "/abilities/CorkiQ.png"
+  },
+  {
+    "id": "Quinn",
+    "numericId": 133,
+    "name": "퀸",
+    "nameEn": "Quinn",
+    "title": "데마시아의 날개",
+    "qName": "실명 공격",
+    "qRange": 1025,
+    "rawRange": 1025,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "image": "/champions/Quinn.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Quinn_0.jpg",
+    "qIcon": "/abilities/QuinnQ.png"
+  },
+  {
+    "id": "KSante",
+    "numericId": 897,
+    "name": "크산테",
+    "nameEn": "K'Sante",
+    "title": "나주마의 긍지",
+    "qName": "엔토포 타격",
+    "qRange": 450,
+    "rawRange": 450,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "image": "/champions/KSante.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/KSante_0.jpg",
+    "qIcon": "/abilities/KSanteQ.png"
+  },
+  {
+    "id": "Kled",
+    "numericId": 240,
+    "name": "클레드",
+    "nameEn": "Kled",
+    "title": "망나니 기사",
+    "qName": "덫날리기",
+    "qRange": 800,
+    "rawRange": 800,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter"
+    ],
+    "image": "/champions/Kled.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kled_0.jpg",
+    "qIcon": "/abilities/KledQ.png"
+  },
+  {
+    "id": "Qiyana",
+    "numericId": 246,
+    "name": "키아나",
+    "nameEn": "Qiyana",
+    "title": "원소의 여왕",
+    "qName": "원소의 분노 / 이쉬탈의 칼날",
+    "qRange": 525,
+    "rawRange": 525,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "image": "/champions/Qiyana.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Qiyana_0.jpg",
+    "qIcon": "/abilities/QiyanaQ.png"
+  },
+  {
+    "id": "Kindred",
+    "numericId": 203,
+    "name": "킨드레드",
+    "nameEn": "Kindred",
+    "title": "영겁의 사냥꾼",
+    "qName": "화살 세례",
+    "qRange": 340,
+    "rawRange": 340,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Marksman"
+    ],
+    "image": "/champions/Kindred.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kindred_0.jpg",
+    "qIcon": "/abilities/KindredQ.png"
+  },
+  {
+    "id": "Taric",
+    "numericId": 44,
+    "name": "타릭",
+    "nameEn": "Taric",
+    "title": "발로란의 방패",
+    "qName": "별빛 손길",
+    "qRange": 325,
+    "rawRange": 325,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Tank"
+    ],
+    "image": "/champions/Taric.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taric_0.jpg",
+    "qIcon": "/abilities/TaricQ.png"
+  },
+  {
+    "id": "Talon",
+    "numericId": 91,
+    "name": "탈론",
+    "nameEn": "Talon",
+    "title": "검의 그림자",
+    "qName": "녹서스식 외교",
+    "qRange": 575,
+    "rawRange": 575,
+    "adjusted": false,
+    "attackRange": 125,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Assassin"
+    ],
+    "image": "/champions/Talon.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Talon_0.jpg",
+    "qIcon": "/abilities/TalonQ.png"
+  },
+  {
+    "id": "Taliyah",
+    "numericId": 163,
+    "name": "탈리야",
+    "nameEn": "Taliyah",
+    "title": "바위술사",
+    "qName": "파편 난사",
+    "qRange": 1000,
+    "rawRange": 1000,
+    "adjusted": false,
+    "attackRange": 525,
+    "roles": [
+      "JUNGLE",
+      "MIDDLE"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Taliyah.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Taliyah_0.jpg",
+    "qIcon": "/abilities/TaliyahQ.png"
+  },
+  {
+    "id": "TahmKench",
+    "numericId": 223,
+    "name": "탐 켄치",
+    "nameEn": "Tahm Kench",
+    "title": "강의 폭군",
+    "qName": "혀 채찍",
+    "qRange": 900,
+    "rawRange": 900,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "UTILITY"
+    ],
+    "classes": [
+      "Tank",
+      "Support"
+    ],
+    "image": "/champions/TahmKench.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/TahmKench_0.jpg",
+    "qIcon": "/abilities/TahmKenchQ.png"
+  },
+  {
+    "id": "Trundle",
+    "numericId": 48,
+    "name": "트런들",
+    "nameEn": "Trundle",
+    "title": "트롤 왕",
+    "qName": "깨물기",
+    "qRange": 300,
+    "rawRange": 300,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Trundle.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Trundle_0.jpg",
+    "qIcon": "/abilities/TrundleQ.png"
+  },
+  {
+    "id": "Tristana",
+    "numericId": 18,
+    "name": "트리스타나",
+    "nameEn": "Tristana",
+    "title": "요들 사수",
+    "qName": "속사",
+    "qRange": 550,
+    "rawRange": 20,
+    "adjusted": true,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE",
+      "BOTTOM"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "image": "/champions/Tristana.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tristana_0.jpg",
+    "qIcon": "/abilities/TristanaQ.png"
+  },
+  {
+    "id": "Tryndamere",
+    "numericId": 23,
+    "name": "트린다미어",
+    "nameEn": "Tryndamere",
+    "title": "야만전사 왕",
+    "qName": "피의 갈망",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Tryndamere.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Tryndamere_0.jpg",
+    "qIcon": "/abilities/TryndamereQ.png"
+  },
+  {
+    "id": "TwistedFate",
+    "numericId": 4,
+    "name": "트위스티드 페이트",
+    "nameEn": "Twisted Fate",
+    "title": "카드의 달인",
+    "qName": "와일드 카드",
+    "qRange": 1450,
+    "rawRange": 10000,
+    "adjusted": true,
+    "attackRange": 525,
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "BOTTOM"
+    ],
+    "classes": [
+      "Mage",
+      "Marksman"
+    ],
+    "image": "/champions/TwistedFate.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/TwistedFate_0.jpg",
+    "qIcon": "/abilities/TwistedFateQ.png"
+  },
+  {
+    "id": "Twitch",
+    "numericId": 29,
+    "name": "트위치",
+    "nameEn": "Twitch",
+    "title": "역병 쥐",
+    "qName": "매복",
+    "qRange": 550,
+    "rawRange": 20,
+    "adjusted": true,
+    "attackRange": 550,
+    "roles": [
+      "BOTTOM",
+      "UTILITY"
+    ],
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ],
+    "image": "/champions/Twitch.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Twitch_0.jpg",
+    "qIcon": "/abilities/TwitchQ.png"
+  },
+  {
+    "id": "Teemo",
+    "numericId": 17,
+    "name": "티모",
+    "nameEn": "Teemo",
+    "title": "날쌘 정찰병",
+    "qName": "실명 다트",
+    "qRange": 680,
+    "rawRange": 680,
+    "adjusted": false,
+    "attackRange": 500,
+    "roles": [
+      "TOP",
+      "JUNGLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Marksman",
+      "Mage"
+    ],
+    "image": "/champions/Teemo.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Teemo_0.jpg",
+    "qIcon": "/abilities/TeemoQ.png"
+  },
+  {
+    "id": "Pyke",
+    "numericId": 555,
+    "name": "파이크",
+    "nameEn": "Pyke",
+    "title": "핏빛 항구의 학살자",
+    "qName": "뼈 작살",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "UTILITY"
+    ],
+    "classes": [
+      "Support",
+      "Assassin"
+    ],
+    "image": "/champions/Pyke.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pyke_0.jpg",
+    "qIcon": "/abilities/PykeQ.png"
+  },
+  {
+    "id": "Pantheon",
+    "numericId": 80,
+    "name": "판테온",
+    "nameEn": "Pantheon",
+    "title": "불굴의 창",
+    "qName": "혜성의 창",
+    "qRange": 575,
+    "rawRange": 575,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "TOP",
+      "JUNGLE",
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Pantheon.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Pantheon_0.jpg",
+    "qIcon": "/abilities/PantheonQ.png"
+  },
+  {
+    "id": "Fiddlesticks",
+    "numericId": 9,
+    "name": "피들스틱",
+    "nameEn": "Fiddlesticks",
+    "title": "오래된 공포",
+    "qName": "공포",
+    "qRange": 575,
+    "rawRange": 575,
+    "adjusted": false,
+    "attackRange": 480,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Fiddlesticks.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiddlesticks_0.jpg",
+    "qIcon": "/abilities/FiddlesticksQ.png"
+  },
+  {
+    "id": "Fiora",
+    "numericId": 114,
+    "name": "피오라",
+    "nameEn": "Fiora",
+    "title": "결투의 대가",
+    "qName": "찌르기",
+    "qRange": 400,
+    "rawRange": 400,
+    "adjusted": false,
+    "attackRange": 150,
+    "roles": [
+      "TOP"
+    ],
+    "classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "image": "/champions/Fiora.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fiora_0.jpg",
+    "qIcon": "/abilities/FioraQ.png"
+  },
+  {
+    "id": "Fizz",
+    "numericId": 105,
+    "name": "피즈",
+    "nameEn": "Fizz",
+    "title": "대양의 말썽꾸러기",
+    "qName": "성게 찌르기",
+    "qRange": 550,
+    "rawRange": 550,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "MIDDLE"
+    ],
+    "classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "image": "/champions/Fizz.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Fizz_0.jpg",
+    "qIcon": "/abilities/FizzQ.png"
+  },
+  {
+    "id": "Heimerdinger",
+    "numericId": 74,
+    "name": "하이머딩거",
+    "nameEn": "Heimerdinger",
+    "title": "위대한 발명가",
+    "qName": "H-28 G 진화형 포탑",
+    "qRange": 350,
+    "rawRange": 350,
+    "adjusted": false,
+    "attackRange": 550,
+    "roles": [
+      "TOP",
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Heimerdinger.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Heimerdinger_0.jpg",
+    "qIcon": "/abilities/HeimerdingerQ.png"
+  },
+  {
+    "id": "Hecarim",
+    "numericId": 120,
+    "name": "헤카림",
+    "nameEn": "Hecarim",
+    "title": "전쟁의 전조",
+    "qName": "회오리 베기",
+    "qRange": 350,
+    "rawRange": 350,
+    "adjusted": false,
+    "attackRange": 175,
+    "roles": [
+      "JUNGLE"
+    ],
+    "classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "image": "/champions/Hecarim.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hecarim_0.jpg",
+    "qIcon": "/abilities/HecarimQ.png"
+  },
+  {
+    "id": "Hwei",
+    "numericId": 910,
+    "name": "흐웨이",
+    "nameEn": "Hwei",
+    "title": "몽상가",
+    "qName": "주제: 참사",
+    "qRange": 900,
+    "rawRange": 0,
+    "adjusted": true,
+    "attackRange": 550,
+    "roles": [
+      "MIDDLE",
+      "UTILITY"
+    ],
+    "classes": [
+      "Mage",
+      "Support"
+    ],
+    "image": "/champions/Hwei.png",
+    "splash": "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Hwei_0.jpg",
+    "qIcon": "/abilities/HweiQ.png"
+  }
+]
